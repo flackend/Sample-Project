@@ -1,0 +1,21 @@
+# Mac OS X
+.DS_Store
+
+# Aptana IDE project files
+.project
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# General cache or log directories
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
